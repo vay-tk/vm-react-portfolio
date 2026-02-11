@@ -6,8 +6,7 @@ function RecentWork() {
       <h2>Created with <span>passion</span>.</h2>
       <h4 style={{color: "aquamarine"}}>Check out some of my recent projects.</h4>
       <div id="work-sample">
-      <a
-            href="https://vm-colors-combinations-animated-responsive-webiste.vercel.app/"
+      <a href="https://vm-colors-combinations-animated-responsive-webiste.vercel.app/"
             ><img
               loading="lazy"
               src="./images/project image/colors combinations animated responsive website.webp"
@@ -41,7 +40,7 @@ function RecentWork() {
               alt=""
           /></a>
           <a
-            href="#"
+            href=" "
           >
             <img
               loading="lazy"
@@ -53,5 +52,6 @@ function RecentWork() {
     </div>
   );
 }
+
 
 export default RecentWork;
