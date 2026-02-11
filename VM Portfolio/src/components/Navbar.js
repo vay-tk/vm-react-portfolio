@@ -6,7 +6,7 @@ function Navbar() {
   return (
     <nav>
       <div className="menu">
-        <div className="logo"><a href="">Vaibhav Maurya</a></div>
+        <div className="logo">Vaibhav Maurya</div>
         <input 
           type="checkbox" 
           id="active" 
@@ -19,9 +19,9 @@ function Navbar() {
         </label>
         <div className="wrapper">
           <ul>
-            <li><a href="">Home</a></li>
-            <li><a href="">Projects</a></li>
-            <li><a href="">Contact</a></li>
+            <li>Home</li>
+            <li>Projects</li>
+            <li>Contact</li>
           </ul>
         </div>
       </div>
@@ -31,4 +31,5 @@ function Navbar() {
 
 
 export default Navbar;
+
 
