@@ -6,7 +6,7 @@ function Navbar() {
   return (
     <nav>
       <div className="menu">
-        <div className="logo"><a href="#">Vaibhav Maurya</a></div>
+        <div className="logo"><a href="">Vaibhav Maurya</a></div>
         <input 
           type="checkbox" 
           id="active" 
@@ -31,3 +31,4 @@ function Navbar() {
 
 
 export default Navbar;
+
