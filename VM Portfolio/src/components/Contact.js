@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 
 function Contact() {
   const [result, setResult] = useState("");
-  const [isSubmitting, setIsSubmitting] = useState(false);
+  const [ setIsSubmitting] = useState(false);
 
   const onSubmit = async (event) => {
     event.preventDefault();
@@ -116,5 +116,6 @@ function Contact() {
     </section>
   );
 }
+
 
 export default Contact;
