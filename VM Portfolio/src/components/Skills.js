@@ -12,6 +12,7 @@ function Skills() {
         <h4>Development</h4>
         <div className="elem-div">
           <img loading="lazy" src="./images/mongodb-min.webp" alt="MongoDB" />
+          <img loading="lazy" src="./images/Next.Js.png" alt="Nextjs" />
           <img loading="lazy" src="./images/React-icon.svg.webp" alt="React" />
           <img loading="lazy" src="./images/node-min.webp" alt="Node.js" />
           <img loading="lazy" src="./images/gsap-min.webp" alt="GSAP" />
@@ -31,5 +32,6 @@ function Skills() {
     </div>
   );
 }
+
 
 export default Skills;
