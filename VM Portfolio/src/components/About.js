@@ -11,11 +11,12 @@ function About() {
         </h1>
         <h1>Now</h1>
         <h1>
-          Learning <span style={{color: "rgb(251, 88, 88)"}}>MERN</span> Stack....
+          <span style={{color: "rgb(251, 88, 88)"}}>MERN</span> Stack Developer
         </h1>
       </div>
     </div>
   );
 }
+
 
 export default About;
