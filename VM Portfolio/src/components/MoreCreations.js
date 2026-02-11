@@ -8,14 +8,13 @@ function MoreCreations() {
         <span style={{color: "cyan"}}>creations</span>.
       </h1>
       <div id="artworks">
-      <a target="_blank" href="https://vm-green-foods-responsive-website.vercel.app/">
+      <a  href="https://vm-green-foods-responsive-website.vercel.app/">
             <h4>2024</h4>
             <h5>Green Foods</h5>
             <h6>Green Food | Good Mood</h6>
             <div id="sliding-div"></div>
           </a>
           <a
-            target="_blank"
             href="https://vm-all-about-movies.vercel.app/components/the-dark-knight.html"
           >
             <h4>2024</h4>
@@ -24,7 +23,6 @@ function MoreCreations() {
             <div id="sliding-div"></div>
           </a>
           <a
-            target="_blank"
             href="https://vm-vkm-store-internship-project-imcx.vercel.app/"
           >
             <h4>2024</h4>
@@ -33,7 +31,6 @@ function MoreCreations() {
             <div id="sliding-div"></div>
           </a>
           <a
-            target="_blank"
             href="https://vaibhavr21.github.io/Favicon-Grabber/"
           >
             <h4>2024</h4>
@@ -45,5 +42,6 @@ function MoreCreations() {
     </div>
   );
 }
+
 
 export default MoreCreations;
